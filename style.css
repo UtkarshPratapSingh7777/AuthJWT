@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(11, 11, 88);
+    color: azure;
+}
+#centerdiv{
+    border : 2px solid pink;
+    border-radius: 20px;
+    margin-top: 200px ;
+    margin-left: 550px ;
+    margin-right:550px;
+    width: 400px;
+    height: 300px;
+}
+#header{
+    font-size: 30px;
+    margin-top:20px;
+    display:flex;
+    justify-content: center;
+}
+#username{
+    margin-top:40px;
+
+    display:flex;
+    justify-content: center;
+}
+#nameinput{
+    border-radius:10px;
+    height:25px;
+
+}
+#passinput{
+    border-radius:10px;
+    height:25px;
+}
+#password{
+    margin-top:20px;
+    display:flex;
+    justify-content: center;
+}
+#submit{
+    margin-top:40px;
+    height: 30px;
+    display:flex;
+    justify-content: center;
+}
+#submitbtn{
+    border:2px solid aliceblue;
+    border-radius: 10px;
+
+}
+#signupdiv{
+    display: flex;
+    justify-content: center;
+}
+#signup{
+    height: 20px;
+    margin-top:5px;
+}
